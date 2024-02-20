@@ -1,12 +1,4 @@
----
-runme:
-  id: 01HQ2Y93YF4DWH4KJ88QR4QR8B
-  version: v3
----
-
 # Red-Bull-Jump-Analysis-MATLAB-Program
-
-# Red Bull Jump Analysis MATLAB Program
 
 This MATLAB program analyzes the Red Bull jump data and performs various computations related to the free fall. The program reads data from a CSV file (`RedBullJumpData.csv`), processes the information, and generates plots to visualize the results.
 
@@ -80,4 +72,4 @@ Divyum Singhal
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
